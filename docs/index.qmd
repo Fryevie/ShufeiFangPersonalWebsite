@@ -1,0 +1,31 @@
+---
+about:
+  template: jolla
+  id: Shufei_Fang
+  image: "img/my_image.jpg"
+  links:
+    - icon: instagram
+      text: Instagram
+      href: https://www.instagram.com/fryevie201?igsh=MW5nN2Y4azVvYm51bA==
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/shufei-fang-8b3b97199?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+    - icon: envelope
+      text: Email
+      href: "mailto:sxf596@case.edu" 
+---
+
+::: {#about-block}
+:::
+
+# Welcome to my website!
+
+<div style="text-align: left;">
+
+My name is Shufei Fang (she/her). I am a first-year Master’s student in Systems Biology and Bioinformatics at Case Western Reserve University. I am particularly interested in computational neuroscience and bioengineering, with the broader goal of integrating quantitative and computational approaches into biomedical research.
+
+I am currently working with Dr. Andrew Dhawan in the Cleveland Clinic Cancer Biology Department, where my research focuses on temozolomide resistance in glioblastoma.
+
+Please feel free to contact me at sxf598@case.edu, or by phone/text at (517) 920-1443 if you have any questions or would be interested in discussing my work.
+
+</div>
