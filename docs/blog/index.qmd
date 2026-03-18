@@ -1,0 +1,9 @@
+---
+title: "Blog"
+listing:
+  contents:
+    - modern-scientist-2026.qmd
+  sort: "date desc"
+  fields: [title, date, description]
+---
+

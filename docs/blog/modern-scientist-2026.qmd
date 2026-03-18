@@ -1,0 +1,14 @@
+---
+title: "Reflection on How To Be a Modern Scientist"
+description: "A reflection on communication, clarity, and reproducibility."
+date: 2026/03/18
+format: html
+---
+
+An important thing that stands out to me when I read How to Be a Modern Scientist is the idea that being a scientist today means more than just producing results; it also requires well-designed communication so that the work can be shared with other people and be understood by a broader audience.
+
+Leek mentions that scientists should write with clarity and simplicity, even when academic culture sometimes rewards complexity. He emphasizes that publication is not about impressing your peers with complexity, but about communicating the results in a manner that other people can understand. Clear language increases the reach and impact of a paper.
+
+This point stood out to me because it changes the way I think about what makes scientific work valuable. A paper is not useful only because it contains results, but because those results are explained in a way that other people can follow, evaluate, and build on. If the writing is too complicated or unclear, then even strong research can become harder to understand and less useful to the scientific community. In that sense, communication is not just something added at the end of research. It is part of what allows the research to have an impact. Leek’s broader view of modern science makes this especially important, because he presents communication as one of the recognized parts of scientific work rather than as a secondary skill.
+
+For me, this idea is meaningful because it makes me think more carefully about how I want to present my own work. I do not want my scientific writing to only sound formal or impressive. I want it to be understandable, honest, and useful to other people who may read it. That is why this lesson feels important to me, it suggests that good science is not only about producing knowledge, but also about making that knowledge easier to share and understand.
